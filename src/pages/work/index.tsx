@@ -12,16 +12,15 @@ import { BsArrowUpRight } from "react-icons/bs";
 import Image from "next/image";
 import "swiper/css";
 
-import ImageProjectGoflzon from "../../assets/images/golfzon.png";
-import ImageProjectSecretary from "../../assets/images/secretary.png";
-import ImageProjectAllRound from "../../assets/images/allround.png";
-import ImageProjectWallet from "../../assets/images/wallet.png";
-import ImageProjectTPocs from "../../assets/images/TPCOS.png";
-import ImageProjectTof from "../../assets/images/Tof.png";
-import ImageProjectAllRoundWeb from "../../assets/images/allround-web.png";
+import ImageProjectGoflzon from "@/src/assets/images/golfzon.png";
+import ImageProjectSecretary from "@/src/assets/images/secretary.png";
+import ImageProjectAllRound from "@/src/assets/images/allround.png";
+import ImageProjectWallet from "@/src/assets/images/wallet.png";
+import ImageProjectTPocs from "@/src/assets/images/TPCOS.png";
+import ImageProjectTof from "@/src/assets/images/Tof.png";
+import ImageProjectAllRoundWeb from "@/src/assets/images/allround-web.png";
 
 import WorkSlide from "@/src/components/work-slide";
-import { PiCaretRightBold } from "react-icons/pi";
 
 const dataProject = [
   {
